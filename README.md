@@ -5,7 +5,6 @@ I'm a data scientist / machine learning engineer.
 <div align="center" style="display:flex;justify-content:space-between;align:center;"> 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abhishekkrthakur&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkrthakur&theme=tokyonight&show_icons=true)](https://github.com/abhishekkrthakur/github-readme-stats)
 
 </div>
 
